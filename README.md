@@ -28,7 +28,7 @@ siguiente imagen de muestra
 Estas instrucciones te guiarán para obtener una copia de este proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
 
 ```bash
-git clone url-github
+git clone [url-github](https://github.com/LorenaOvalle/Datos-de-Usuario)
 ```
 
 ### Prerrequisitos 📋
