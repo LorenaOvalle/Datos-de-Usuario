@@ -4,10 +4,10 @@ Desafío - Datos de usuarios del módulo 4 Programación avanzada en JavaScript 
 Requerimientos
 
 1. Programar una función IIFE para ser invocada al cargar nuestra página.
-(5 Puntos)
+   (5 Puntos)
 2. Programar la petición a la API usando async - await y mostrar el resultado en html
-utilizando etiquetas del tipo párrafo una bajo la otra.
-(5 Puntos)
+   utilizando etiquetas del tipo párrafo una bajo la otra.
+   (5 Puntos)
 
 ## Descripción
 
@@ -28,7 +28,7 @@ siguiente imagen de muestra
 Estas instrucciones te guiarán para obtener una copia de este proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
 
 ```bash
-git clone [url-github](https://github.com/LorenaOvalle/Datos-de-Usuario)
+git clone [(https://github.com/LorenaOvalle/Datos-de-Usuario)]
 ```
 
 ### Prerrequisitos 📋
